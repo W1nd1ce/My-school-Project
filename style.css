@@ -1,0 +1,12 @@
+#contact iframe{
+    width: 100%;
+}
+.TravelingPlaces_maindiv{
+    border:1px solid lightgray;
+}
+.TravelingPlaces_maindiv img{
+    width:100%;
+}
+.TravelingPlaces_maindiv h5, .TravelingPlaces_maindiv p{
+    margin:20px;
+}
