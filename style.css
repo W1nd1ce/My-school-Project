@@ -1,12 +1,17 @@
-#contact iframe{
-    width: 100%;
+#School Video{
+ width:100%;
+ height:500px;
+ border:none;
 }
-.TravelingPlaces_maindiv{
-    border:1px solid lightgray;
+.About Me{
+    font-size:40px;
+   color:rgb(46, 166, 187);
 }
-.TravelingPlaces_maindiv img{
-    width:100%;
+.CampusLife_maindiv{
+    font-size:40px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
-.TravelingPlaces_maindiv h5, .TravelingPlaces_maindiv p{
-    margin:20px;
+.SchoolLibary_MainDiv{
+    border:6px;
+    border-color:aliceblue;
 }
