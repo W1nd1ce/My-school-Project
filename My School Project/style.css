@@ -1,0 +1,45 @@
+#School Video{
+ width:100%;
+ height:500px;
+ border:none;
+}
+.About Me{
+    font-size:40px;
+   color:rgb(46, 166, 187);
+}
+.text-sucess_text-capitalize{
+    font-size:40px;
+}
+.CampusLife_maindiv{
+    border:1px lightgray;
+    font-size:40px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.SchoolLibary_MainDiv{
+    border:6px;
+    border-color:aliceblue;
+}
+.navbar-header{
+    position:sticky;
+}
+.Achievements_text{
+    color:orangered;
+}
+.CampusLife_maindiv img{
+width:100%;
+}
+.CampusLife_maindiv h5, .CampusLife_maindiv img p{
+    margin:20px;
+}
+.Achivements_head i{
+    float:right;
+}
+.lunch{
+    margin:bottom 20px;
+}
+body{
+    background: linear-gradient(0.25turn, blue, lightblue, aliceblue);
+}
+#contact iframe{
+    width:100%     
+}
